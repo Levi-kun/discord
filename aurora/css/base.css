@@ -186,7 +186,7 @@ body::before {
 /*2.a. Main Titlebar*/
 .wordmark-2iDDfm path {display:none;}
 .wordmark-2iDDfm:after {
-	content:'Aurora v1.1';
+	content:'Levi Kun But Not I guess';
 	position: absolute !important;
 	left: 8px;
 	width: 150vw;
@@ -668,11 +668,11 @@ div[style*="/assets/f046e2247d730629309457e902d5c5b3.svg"]{
 }
 .member-3W1lQa [class*="status-"] {transition: all ease .05s}
 .status-oxiHuE:not(.status-3fQvEa) {
-  height: calc(100% - 1px) !important;
-  width: calc(100% - 1px) !important;
+  height: calc(100% - 3px) !important;
+  width: calc(100% - 3px) !important;
   margin: 0;
-  top: -1px;
-  left: -1px;
+  top: -3px;
+  left: -3px;
   background: transparent;
 	border-radius:50px !important;
   border:2px solid;
