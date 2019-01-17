@@ -517,7 +517,7 @@ body::before {
 .contentHoveredVoice-3p_NEO:active,
 .contentSelectedVoice-1WDIBM:active {
 	background: var(--main-color-faded);
-	transition: 540ms all linear;
+	transition: 340ms all linear;
 }
 
 /*4.b. Account Deatils Container*/
@@ -536,7 +536,7 @@ body::before {
 .vertical-V37hAW .channels-Ie2l6A {
 	overflow: hidden !important;
 	border-radius: 0 6px 6px 0 !important;
-	margin-right: 15px;
+	margin-right: 20px;
 	background: var(--backdropblurred);
 	background-size:cover !important;
 	background-position: center;
