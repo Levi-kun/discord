@@ -502,7 +502,7 @@ body::before {
 
 /*4. Channels Area*/
 /*4.a. Channels*/
-.channels-Ie2l6A:hover {width:429px;}
+.channels-Ie2l6A:hover {width:350px;}
 .channels-Ie2l6A {
     transition:.5s width ease;
 }
@@ -536,7 +536,7 @@ body::before {
 .vertical-V37hAW .channels-Ie2l6A {
 	overflow: hidden !important;
 	border-radius: 0 6px 6px 0 !important;
-	margin-right: 20px;
+	margin-right: 10px;
 	background: var(--backdropblurred);
 	background-size:cover !important;
 	background-position: center;
