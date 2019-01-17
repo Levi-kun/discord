@@ -502,9 +502,9 @@ body::before {
 
 /*4. Channels Area*/
 /*4.a. Channels*/
-.channels-Ie2l6A:hover {width:329px;}
+.channels-Ie2l6A:hover {width:429px;}
 .channels-Ie2l6A {
-    transition:.7s width ease;
+    transition:.5s width ease;
 }
 .contentSelectedText-3wUhMi,
 .channel-2QD9_O.selected-1HYmZZ a {
@@ -517,7 +517,7 @@ body::before {
 .contentHoveredVoice-3p_NEO:active,
 .contentSelectedVoice-1WDIBM:active {
 	background: var(--main-color-faded);
-	transition: 550ms all linear;
+	transition: 540ms all linear;
 }
 
 /*4.b. Account Deatils Container*/
