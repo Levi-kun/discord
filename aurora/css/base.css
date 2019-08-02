@@ -186,13 +186,13 @@ body::before {
 /*2.a. Main Titlebar*/
 .wordmark-2iDDfm path {display:none;}
 .wordmark-2iDDfm:after {
-	content:'Levi Kun But Not I guess';
+	content:'Levi Kun <3';
 	position: absolute !important;
-	left: 8px;
+	left: 50px;
 	width: 150vw;
 	font-family:'Arial';
 	color: rgba(255,255,255,0.8);
-	font-size: 19px;
+	font-size: 20px;
 	font-weight:bold;
 }
 /*============== END OF SECTION ============== */
