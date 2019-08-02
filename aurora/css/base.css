@@ -11,18 +11,13 @@
 | $$  | $$|  $$$$$$/| $$      |  $$$$$$/| $$     |  $$$$$$$
 |__/  |__/ \______/ |__/       \______/ |__/      \_______/
 	       		By Tropical
-
 TABLE OF CONTENTS
-
-
 1. Background and Sizing
   1.a. Main Background
   1.b. Spacing
   1.c. General Transparency
-
 2. Titlebar
   2.a. Main Titlebar
-
 3. Chat
   3.a. Messages and Codeblocks
   3.b. Dividers
@@ -39,26 +34,22 @@ TABLE OF CONTENTS
   3.m. Invites
   3.n. Embeds
   3.o. Calls
-
 4. Channels Area
   4.a. Channels
   4.b. Account Details Container
   4.c. Top Header
   4.d. Transparency
   4.e. Group DM Icon
-
 5. Guilds
   5.a. Wrapper
   5.b. Add/Create Guilds Button
   5.c. Unread and Selected Indicators
   5.d. Home Icon
   5.e. Tooltips
-
 6. Members List
 	6.a. Transparency
 	6.b. Selected and Hovered Content
 	6.c. User Status
-
 7. Popups and Dropdowns
 	7.a. Server Dropdown
 	7.b. Status Picker
@@ -74,7 +65,6 @@ TABLE OF CONTENTS
 	7.l. Toasts
 	7.m. Profile Popout
 	7.n. @Everyone Popout
-
 8. Modals
 	8.a. Transparency
 	8.b. Upload Modal
@@ -82,7 +72,6 @@ TABLE OF CONTENTS
 	8.d. Quick Switcher
 	8.e. Screenshare Modal
 	8.f. Add/Create Guilds Modal
-
 9. Settings
   9.a. Transparency and Sidebar
   9.b. Buttons and Checkboxes and Switches
@@ -104,21 +93,17 @@ TABLE OF CONTENTS
   9.r. BD Settings
   9.s. Server Settings
   9.t. Custom CSS Editor
-
 10. Tag Animations (Animations by EllexideCodes, added here for support on tags.)
 	10. Keyframes
-
 11. Store, Activity, Library and Friends
 	11.a. Store
 	11.b. Activity
   11.c. Library 
   11.d. Friends
-
 12. Out of app areas
 	12.a. Login Screen
 	12.b. Crash Screen
 	12.c. Loading Screen
-
 13. Plugins
 	13.a. Theme and Pluginrepo
 	13.b. BetterFormattingRedux
@@ -192,7 +177,7 @@ body::before {
 	width: 150vw;
 	font-family:'Arial';
 	color: rgba(255,255,255,0.8);
-	font-size: 20px;
+	font-size: 50px;
 	font-weight:bold;
 }
 /*============== END OF SECTION ============== */
